@@ -35,4 +35,27 @@ Color
 3. gray
 
 <!-- link  -->
-click[hear](https://github.com/)
+github link[hear](https://github.com/)
+
+<!-- Image  -->
+![image description](
+    https://static.vecteezy.com/system/resources/thumbnails/016/833/880/small/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg
+)
+
+<!-- table  -->
+|Header|Description|
+|:--:|:--:|
+|cell1|cell2|
+|code1|code2|
+|table1|table2|
+
+<!-- code  -->
+to print message in the console, use `console.log('your message')`and...
+
+```
+console.log('your message')
+```
+
+```ts
+console.log('your message')
+```
