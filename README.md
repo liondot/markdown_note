@@ -56,6 +56,6 @@ to print message in the console, use `console.log('your message')`and...
 console.log('your message')
 ```
 
-```ts
+```js
 console.log('your message')
 ```
