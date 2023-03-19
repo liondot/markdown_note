@@ -59,3 +59,21 @@ console.log('your message')
 ```js
 console.log('your message')
 ```
+
+<!-- 줄바꿈  -->
+1. <br/>
+2. &nbsp; 특수문자를 사용
+
+<!-- <br/> -->
+글자 색 변경
+<span style="color:red"> 글씨색 변경 </span>
+<span style="color:yellow"> 글씨색 변경 </span>
+<span style="color:blue"> 글씨색 변경 </span>
+<span style="color:brown"> 글씨색 변경 </span>
+<span style="color:orange"> 글씨색 변경 </span>
+<span style="color:green"> 글씨색 변경 </span>
+<span style="color:violet"> 글씨색 변경 </span>
+<span style="color:yellowgreen"> 글씨색 변경 </span>
+<span style="color:blueviolet"> 글씨색 변경 </span>
+<span style="color:gray"> 글씨색 변경 </span>
+<span style="color:indigo"> 글씨색 변경 </span>
